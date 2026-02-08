@@ -1,4 +1,4 @@
-# 💖 Valentines Project 💖 
+# Valentines Project 
 
 ### This is a cute little way you can ask someone to be your valentine! 🌹
 
@@ -12,6 +12,6 @@ This project asks your special someone to be their valentine, but we don't let t
 
 
 ## Special thanks to Steph
-Thanks Steph for the code! I tweaked it to my girlfriends taste so I'm hoping she likes it. 
+Thanks Steph for the code! I tweaked it to my girlfriends taste so I'm hoping she likes it. I TAKE NO OWNERSHIP OF THE ORIGINAL CODE.
 
 Video inspo: https://www.youtube.com/watch?v=_uM9ELZgPvU 
