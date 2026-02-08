@@ -1,6 +1,6 @@
-# 💖 Valentines Project 💖 
+# Valentines Project 
 
-### This is a cute little way you can ask someone to be your valentine! 🌹
+### This is a cute little way you can ask someone to be your valentine featuring Anya from Spy X Family :D
 
 ## Features
 - Cute gifs of Anya
@@ -9,7 +9,6 @@
 
 ## How It Works
 This project asks your special someone to be their valentine, but we don't let them say no! (consent is optional :D)
-
 
 ## Special thanks to Steph
 Thanks Steph for the code! I tweaked it to my girlfriends taste so I'm hoping she likes it. 
